@@ -1,4 +1,7 @@
 x=int(input("Введите число:"))
 y=int(input("Введите число:"))
-if x/y==int: print(“true”)
-elif:x/y !=print(“false”)
+
+if x%y == int(): 
+    print('true')
+elif x%y != int():
+    print('false')
